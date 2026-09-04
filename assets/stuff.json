@@ -1,0 +1,100 @@
+{
+  "allGames": [
+    {
+      "title": "Papa's Pizzeria",
+      "description": "Manage a pizzeria and serve pizzas.",
+      "image": "https://api.codetabs.com/v1/proxy?quest=https://www.coolmathgames.com/sites/default/files/PapasPizzeria_OG-logo.jpg",
+      "category": "Simulation",
+      "url": "https://api.codetabs.com/v1/proxy?quest=https://drive.google.com/uc?id=1HGtrwMLkfRJs7EvZZXES0llB-I7Q12gg",
+      "ruffle": true,
+      "disableFullscreen": false,
+      "release": "2007-01-01",
+      "featured": true
+    },
+    {
+      "title": "Spacebar Clicker",
+      "description": "Rapidly tap the spacebar to earn points and unlock upgrades in this addictive clicker game.",
+      "image": "https://www.hoodamath.com/large/spacebarclicker_300x225.jpg",
+      "category": "Clicker",
+      "url": "https://www.hoodamath.com/mobile/games/spacebar-clicker/game.html?nocheckorient=1",
+      "ruffle": false,
+      "disableFullscreen": false,
+      "release": "2016-01-01"
+    },
+    {
+      "title": "Minecraft",
+      "description": "It's Minecraft. Yeah.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/b6/Minecraft_2024_cover_art.png",
+      "category": "Skill",
+      "url": "https://filebin.net/s2jiwjmin3jkq36m/EaglercraftX_1.8_u46_Offline_Signed%20%281%29.html",
+      "ruffle": false,
+      "release": "2009-05-17",
+      "featured": true
+    },
+    {
+      "title": "Papa's Donuteria",
+      "description": "Manage a donut shop by taking orders, rolling and cutting dough, frying donuts, and decorating them with glazes and toppings to satisfy customers.",
+      "image": "https://api.codetabs.com/v1/proxy?quest=https://www.coolmathgames.com/sites/default/files/PapasDonuteria_OG-logo.jpg",
+      "category": "Simulation",
+      "url": "https://api.codetabs.com/v1/proxy?quest=https://archive.org/download/papas-donuteria-game/papasdonuteria_102.swf",
+      "ruffle": true,
+      "disableFullscreen": false,
+      "release": "2011-01-01",
+      "hidden": false
+    },
+    {
+      "title": "Papa's Burgeria",
+      "description": "Run a burger joint and serve customized burgers to customers.",
+      "image": "https://api.codetabs.com/v1/proxy?quest=https://www.coolmathgames.com/sites/default/files/PapasBurgeria_OG-logo.jpg",
+      "category": "Simulation",
+      "url": "https://api.codetabs.com/v1/proxy?quest=https://example.com/papas-burgeria.swf",
+      "ruffle": true,
+      "disableFullscreen": false,
+      "release": "2011-01-01",
+      "hidden": true
+    },
+    {
+      "title": "Papa's Freezeria",
+      "description": "Create and serve frozen desserts in this cool simulation game.",
+      "image": "https://api.codetabs.com/v1/proxy?quest=https://www.coolmathgames.com/sites/default/files/PapasFreezeria_OG-logo.jpg",
+      "category": "Simulation",
+      "url": "https://api.codetabs.com/v1/proxy?quest=https://example.com/papas-freezeria.swf",
+      "ruffle": true,
+      "disableFullscreen": false,
+      "release": "2011-01-01",
+      "hidden": true
+    },
+    {
+      "title": "Papa's Taco Mia",
+      "description": "Take orders and make perfect tacos in this fast-paced cooking game.",
+      "image": "https://api.codetabs.com/v1/proxy?quest=https://www.coolmathgames.com/sites/default/files/PapasTacoMia_OG-logo.jpg",
+      "category": "Simulation",
+      "url": "https://api.codetabs.com/v1/proxy?quest=https://example.com/papas-taco-mia.swf",
+      "ruffle": true,
+      "disableFullscreen": false,
+      "release": "2012-01-01",
+      "hidden": true
+    },
+    {
+      "title": "Bloons Tower Defense 5",
+      "description": "The fifth installment of the popular tower defense series. Build towers, upgrade them, and pop those bloons!",
+      "image": "https://api.codetabs.com/v1/proxy?quest=https://static.wikia.nocookie.net/b__/images/b/b4/BTD5_Mobile.jpeg",
+      "category": "Strategy",
+      "url": "https://api.codetabs.com/v1/proxy?quest=https://drive.google.com/uc?id=1rsQIc2p9KJjffT23NSEkyyVkGc5rewt8",
+      "ruffle": true,
+      "disableFullscreen": false,
+      "release": "2011-01-01",
+      "hidden": false
+    },
+    {
+      "title": "Fly",
+      "description": "By theLvoigt on scratch",
+      "image": "https://cdn2.scratch.mit.edu/get_image/project/1061198661_144x108.png",
+      "category": "Simulation",
+      "url": "https://scratch.mit.edu/projects/1061198661/embed",
+      "ruffle": false,
+      "disableFullscreen": false,
+      "release": "2007-01-01"
+    }
+  ]
+}

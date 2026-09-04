@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Ubl0krMan1a!PLUS: the ultim@te place to find Ubl0krs, G@m3s, and more.">
+    <title>Ubl0krMan1a!PLUS</title>
+    <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+    <header>
+        <a class="logo" href="#top" aria-label="Ubl0krMan1a!PLUS home">UBL0KR<span>MAN1A</span>!PLUS</a>
+        <nav aria-label="Primary navigation">
+            <a href="#featured-games">Featured</a>
+            <a href="#all-games">Library</a>
+            <a href="proxies.html">pr0x13s</a>
+        </nav>
+    </header>
+
+    <main id="top">
+        <section class="hero">
+            <div>
+                <p class="eyebrow">Featured selection / Issue 01</p>
+                <h1>Ubl0krs.<br>G@m3s.<br><em>More.</em></h1>
+                <p class="hero-copy">The ultim@te place to find Ubl0krs, G@m3s, and more. Pick a lane, find a favorite, and get playing.</p>
+            </div>
+            <div class="hero-mark" aria-hidden="true"><span>PLAY</span><strong>+</strong><span>MORE</span></div>
+        </section>
+
+        <section class="toolbar" aria-label="Game filters">
+            <label class="search-field">
+                <span class="sr-only">Search games</span>
+                <input type="search" id="search-input" placeholder="Search the library" autocomplete="off">
+                <span aria-hidden="true">⌕</span>
+            </label>
+            <div class="filters" id="category-filters" aria-label="Filter by category"></div>
+            <button class="outline-button" id="request-game" type="button">Request a game <span aria-hidden="true">↗</span></button>
+        </section>
+
+        <section id="featured-games" class="game-section">
+            <div class="section-heading"><div><p class="eyebrow">Start here</p><h2>Featured g@m3s</h2></div><span class="section-count" id="featured-count"></span></div>
+            <div id="featured-games-grid" class="game-grid"></div>
+        </div>
+
+        <section id="all-games" class="game-section">
+            <div class="section-heading"><div><p class="eyebrow">The full shelf</p><h2>All g@m3s</h2></div><span class="section-count" id="all-count"></span></div>
+            <div id="all-games-grid" class="game-grid"></div>
+        </section>
+
+    </main>
+    <footer>
+        <p>&copy; 2026 Tanner Voltage</p>
+        <p>Made for a quick escape</p>
+    </footer>
+
+    <div id="game-modal" class="game-modal" hidden>
+        <div class="player-bar">
+            <strong id="player-title">Now playing</strong>
+            <div><button id="fullscreen-game" type="button" title="Fullscreen">⛶</button><button id="close-game" type="button" title="Close">&times;</button></div>
+        </div>
+        <div id="game-frame" class="game-frame"></div>
+    </div>
+    <div id="toast" class="toast" role="status"></div>
+    <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+    <script src="assets/script.js"></script>
+</body>
+</html>
